@@ -1,0 +1,65 @@
+Class,Subclass,Compound,p value,Fold-change,regulation
+Benzene and substituted ,Benzoic acids and derivatives,Hippuric acid,0.006610,2.3,upregulated by low AGE diet
+Carboxylic acids and derivatives ,"Amino acids, peptides, and analogues", 2-{[hydroxy(4-methoxy-1-benzofuran-5-yl)methylidene]amino}acetic acid,0.006460,184.4,upregulated by low AGE diet
+Carboxylic acids and derivatives ,"Amino acids, peptides, and analogues",S-PGA1-GSH,0.015200,96.1,upregulated by low AGE diet
+Carboxylic acids and derivatives ,"Amino acids, peptides, and analogues",N-Heptanoylglycine ,0.016500,91.8,upregulated by low AGE diet
+Carboxylic acids and derivatives ,"Amino acids, peptides, and analogues",N-Decanoylglycine,0.016800,87.6,upregulated by low AGE diet
+Carboxylic acids and derivatives ,"Amino acids, peptides, and analogues",Isoleucyl-Tryptophan,0.019300,69.7,upregulated by low AGE diet
+Carboxylic acids and derivatives ,"Amino acids, peptides, and analogues",Glutaminyl-Hydroxyproline,0.032600,1.2,downregulated by low AGE diet
+Carboxylic acids and derivatives ,"Amino acids, peptides, and analogues",N-Oleoyl tyrosine,0.036300,1.1,downregulated by low AGE diet
+Carboxylic acids and derivatives ,"Amino acids, peptides, and analogues",Isoleucyl-Proline,0.036300,39.5,upregulated by low AGE diet
+Carboxylic acids and derivatives ,"Amino acids, peptides, and analogues",Leukotriene C4,0.038800,1.2,downregulated by low AGE diet
+FA,Fatty acids and conjugates,cis-5-Decenedioic acid ,0.013900,158.9,upregulated by low AGE diet
+FA,Fatty acyl glycosides,Vomifoliol 9-[xylosyl-(1->6)-glucoside,0.017200,103.3,upregulated by low AGE diet
+FA,Fatty acids and conjugates,Citramalic acid,0.030800,179,upregulated by low AGE diet
+FA,Fatty acid esters,cis-5-Tetradecenoylcarnitine,0.038400,71.5,upregulated by low AGE diet
+FA,Fatty acids and derivates,"12,13-dihydroxy-11-methoxy-9-octadecenoic acid",0.046400,33.3,downregulated by low AGE diet
+FA,Fatty acids and derivates,2-hydroxy-nonadecanoic acid,0.006480,395.2,upregulated by low AGE diet
+FA ,Fatty acid esters,Cervonyl carnitine,0.002170,332.5,downregulated by low AGE diet
+Flavonoids, Flavonoid glycosides,3-Ferulylpelargonidin 5-glucoside ,0.037600,92.9,downregulated by low AGE diet
+Flavonoids, Flavonoid glycosides,Delphinidin3-(malonyl-glycosyde),0.041500,38.9,downregulated by low AGE diet
+GL,MG,MG(22:2)*,0.017100,1.3,downregulated by low AGE diet
+GL,MG,MG(20:2)*,0.032500,1.3,downregulated by low AGE diet
+GL,TG,TG(55:0),0.036200,87.7,upregulated by low AGE diet
+GL,TG,TG(49:0),0.040000,86,downregulated by low AGE diet
+GL,TG,TG(49:3),0.047600,45.1,upregulated by low AGE diet
+GL,TG,OxTG(53:7)*,0.048200,165.5,downregulated by low AGE diet
+GL,TG,TG(57:2)*,0.008320,961.7,downregulated by low AGE diet
+GL,TG,TG(49:4),0.009260,1.2,downregulated by low AGE diet
+GL , DG,DG(39:3),0.028300,61.6,upregulated by low AGE diet
+GL , DG,DG(41:5),0.035400,69.2,downregulated by low AGE diet
+GP,Glycerophosphates ,PA(21:0),0.006300,493.6,upregulated by low AGE diet
+GP,PS ,PS(O-35:1) / PS(P-35:0) ,0.016400,139.2,downregulated by low AGE diet
+GP,Glycerophosphates ,PA(O-40:4),0.016500,84.4,upregulated by low AGE diet
+GP,PC,LysoPC(15:0) / LysoPE(18:0),0.035400,42.6,upregulated by low AGE diet
+GP,PC,LysoPC(22:4),0.038700,30.9,upregulated by low AGE diet
+GP,PC/PE,PC(O-17:0) / PE(O-20:0),0.043300,1.1,downregulated by low AGE diet
+GP,PE,PE(27:1),0.043600,1.1,downregulated by low AGE diet
+GP,PE/PS ,PE(18:4) / PS(31:0) ,0.046700,1.1,downregulated by low AGE diet
+GP,PC/PE,PC(O-40:5) / PC(P-40:4) / PC(34:0) /PE(42:5),0.010300,1.3,downregulated by low AGE diet
+GP,PE,PE(37:0) / PE(O-38:0),0.010300,1.3,downregulated by low AGE diet
+GP,Glycerophosphates ,PA(37:0),0.014300,206.6,downregulated by low AGE diet
+GP,Glycerophosphates ,PA(33:3) ,0.016300,1.3,downregulated by low AGE diet
+GP,PE,PE(38:2),0.016300,184.4,upregulated by low AGE diet
+GP,PC/PE,PC(O-17:0) / PE(20:0),0.023600,362.7,downregulated by low AGE diet
+GP,PE,PE(38:0),0.024700,500,upregulated by low AGE diet
+GP,PS /PC,PS(38:0) / PC(39:6)/PE(42:6)/PC(P-34:2) /PC(O-34:3) / ,0.025100,1.2,downregulated by low AGE diet
+GP,PC/PE,PC(36:1) / PE(39:1) / PC(O-34:1),0.034700,134.2,downregulated by low AGE diet
+GP,PC/PE,PC(O-36:3) /PC(36:1)/PE(39:1)  ,0.034700,134.2,downregulated by low AGE diet
+GP,PC,PC(20:3) ,0.037500,338.1,upregulated by low AGE diet
+GP, CDP-glycerols ,CDP-DG(34:1),0.038900,34.2,downregulated by low AGE diet
+GP,PC/PS ,PC(42:10 / PS(41:4),0.046800,35.3,upregulated by low AGE diet
+GP,PC,PC(34:0)* ,0.049900,36,upregulated by low AGE diet
+GP/SL ,Glycerophosphates /PhosphoSL,PA(O-37:2) / SM(d34:2) ,0.028600,1.8,downregulated by low AGE diet
+GP/SL ,PC/GlycoSL,PC(42:5) / LacCer(d34:0),0.032400,37.5,downregulated by low AGE diet
+Indoles and derivatives, Pyridoindoles,"3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole ",0.038000,56,downregulated by low AGE diet
+Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Rumexoside,0.024200,394.3,downregulated by low AGE diet
+Organooxygen compounds ,Carbohydrates and carbohydrate conjugates ,N-Acetyl-b-glucosaminylamine,0.037600,38.5,upregulated by low AGE diet
+Oxepanes,Oxepanes,"Limonene-1,2-epoxide",0.023400,378.2,downregulated by low AGE diet
+SL,PhosphoSL,SM(d38:0),0.014500,106.2,downregulated by low AGE diet
+SL,PhosphoSL,SM(d42:3) *,0.018700,293.7,upregulated by low AGE diet
+SL ,GlycoSL,GlcCer(d36:2) ,0.025100,1.2,downregulated by low AGE diet
+SL , Ceramides,Cer(d42:2),0.031900,147.1,downregulated by low AGE diet
+SL , Ceramides,Cer(t42:0)  ,0.037300,72.5,downregulated by low AGE diet
+Steroids and steroid derivatives,Steroidal glycosides ,Cortolone-3-glucuronide,0.034500,37.1,upregulated by low AGE diet
+Steroids and steroid derivatives,Estrane steroids,Estrone,0.038100,35.9,downregulated by low AGE diet
